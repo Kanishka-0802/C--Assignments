@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\bin\Debug\BankingSystemDay9.exe.config
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\bin\Debug\BankingSystemDay9.exe
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\bin\Debug\BankingSystemDay9.pdb
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\obj\Debug\BankingSystemDay9.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\obj\Debug\BankingSystemDay9.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\obj\Debug\BankingSystemDay9.exe
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\obj\Debug\BankingSystemDay9.pdb
+C:\Users\kanishkac\Desktop\Assignments\BankingSystemDay9\BankingSystemDay9\obj\Debug\BankingSystemDay9.exe.config

@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\bin\Debug\AssignmentDay5.exe.config
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\bin\Debug\AssignmentDay5.exe
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\bin\Debug\AssignmentDay5.pdb
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\obj\Debug\AssignmentDay5.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\obj\Debug\AssignmentDay5.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\obj\Debug\AssignmentDay5.exe
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\obj\Debug\AssignmentDay5.pdb
+C:\Users\kanishkac\Desktop\Assignments\AssignmentDay5\AssignmentDay5\obj\Debug\AssignmentDay5.exe.config
