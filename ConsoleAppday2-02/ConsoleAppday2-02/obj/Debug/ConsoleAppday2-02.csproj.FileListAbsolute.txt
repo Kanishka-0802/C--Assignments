@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\bin\Debug\ConsoleAppday2-02.exe.config
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\bin\Debug\ConsoleAppday2-02.exe
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\bin\Debug\ConsoleAppday2-02.pdb
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\obj\Debug\ConsoleAppday2-02.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\obj\Debug\ConsoleAppday2-02.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\obj\Debug\ConsoleAppday2-02.exe
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\obj\Debug\ConsoleAppday2-02.pdb
+C:\Users\kanishkac\Desktop\Assignments\ConsoleAppday2-02\ConsoleAppday2-02\obj\Debug\ConsoleAppday2-02.exe.config

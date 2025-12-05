@@ -1,0 +1,2 @@
+C:\Users\kanishkac\Desktop\Assignments\CourierApp\CourierApp\obj\Debug\CourierApp.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\CourierApp\CourierApp\obj\Debug\CourierApp.csproj.CoreCompileInputs.cache

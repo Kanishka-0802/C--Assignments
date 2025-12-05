@@ -1,0 +1,2 @@
+C:\Users\kanishkac\Desktop\Assignments\E-commerceDay7\E-commerceDay7\obj\Debug\E-commerceDay7.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\E-commerceDay7\E-commerceDay7\obj\Debug\E-commerceDay7.csproj.CoreCompileInputs.cache

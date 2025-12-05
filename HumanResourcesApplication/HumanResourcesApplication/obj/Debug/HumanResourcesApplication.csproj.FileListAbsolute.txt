@@ -1,0 +1,6 @@
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\bin\Debug\HumanResourcesApplication.dll
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\bin\Debug\HumanResourcesApplication.pdb
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\obj\Debug\HumanResourcesApplication.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\obj\Debug\HumanResourcesApplication.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\obj\Debug\HumanResourcesApplication.dll
+C:\Users\kanishkac\Desktop\Assignments\HumanResourcesApplication\HumanResourcesApplication\obj\Debug\HumanResourcesApplication.pdb
