@@ -1,0 +1,7 @@
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\bin\Debug\RestaurantOrderDay10.exe.config
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\bin\Debug\RestaurantOrderDay10.exe
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\bin\Debug\RestaurantOrderDay10.pdb
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\obj\Debug\RestaurantOrderDay10.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\obj\Debug\RestaurantOrderDay10.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\obj\Debug\RestaurantOrderDay10.exe
+C:\Users\kanishkac\Desktop\Assignments\RestaurantOrderDay10\RestaurantOrderDay10\obj\Debug\RestaurantOrderDay10.pdb

@@ -1,0 +1,7 @@
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\bin\Debug\OnlineStoreCheckout.exe.config
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\bin\Debug\OnlineStoreCheckout.exe
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\bin\Debug\OnlineStoreCheckout.pdb
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\obj\Debug\OnlineStoreCheckout.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\obj\Debug\OnlineStoreCheckout.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\obj\Debug\OnlineStoreCheckout.exe
+C:\Users\kanishkac\Desktop\Assignments\OnlineStoreCheckout\OnlineStoreCheckout\obj\Debug\OnlineStoreCheckout.pdb

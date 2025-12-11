@@ -1,0 +1,11 @@
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\bin\Debug\Remotingtrn.dll
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\bin\Debug\Remotingtrn.pdb
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.csproj.Up2Date
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\kanishkac\Desktop\Assignments\Remotingtrn\ClientApp\obj\Debug\ClientApp.exe.config
